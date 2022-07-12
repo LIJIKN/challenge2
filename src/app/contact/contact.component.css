@@ -1,0 +1,55 @@
+
+
+.img
+{padding: auto;
+    margin-left: 0%;
+    width: 100%;
+    margin-bottom: 0%;
+
+
+
+}
+.content{
+    margin-top: 0%;
+    background-color: rgb(233, 250, 231);
+}
+
+
+
+
+h1{
+    text-align: center;
+    margin-top: 3%;
+    color: darkgreen;
+}
+.field{
+    text-align: center;
+    
+}
+#in{
+    background-color: bisque;
+}
+#input{
+    width: 40%;
+    height: 60%;
+    
+    background-color: bisque;
+    
+}
+h5{
+    text-align: center;
+    color: darkblue;
+}
+.con{
+    margin-left: 15%;
+    color: darkred;
+}
+/* .img img{
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+}
+.img:hover img{
+    transform: scale(1.1);
+} */
+
+    

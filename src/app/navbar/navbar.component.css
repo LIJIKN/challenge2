@@ -1,0 +1,23 @@
+.navbar
+{
+background-color: rgb(7, 45, 3);
+}
+.head{
+    background-color: rgb(245, 245, 202);
+    text-align: center;
+    color: red;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0%;
+}
+a{
+    color: aqua;
+    font-size: large;
+
+}
+a:hover{
+    color:gold;
+    font-size: larger;
+}
